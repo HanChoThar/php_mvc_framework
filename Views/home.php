@@ -1,0 +1,1 @@
+<h1>This is home, <?php echo $name ?></h1>
